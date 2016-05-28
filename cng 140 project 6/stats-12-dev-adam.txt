@@ -1,0 +1,12 @@
+Cenk Akyol		 200.00		  50.00		50.00	    50.00
+Dusan Cantekin		 38.00		  62.50		50.00	    -1.#J
+Ender Arslan		 152.00		  69.70		54.00	    28.41
+Kerem Gonlum		 87.00		  53.85		53.03	    33.33
+Kerem Tunceri		 305.00		  83.64		46.49	    35.42
+Sinan Guler		 233.00		  68.00		50.56	    44.68
+Baris Ermis		 281.00		  72.50		73.39	    26.58
+Hidayet Turkogl		 758.00		  70.53		41.47	    35.69
+Omer Asik		 205.00		  45.63		50.64	    -1.#J
+Omer Onan		 207.00		  65.22		49.48	    36.49
+Ersan Ilyasova		 884.00		  78.14		49.25	    45.54
+Semih Erden		 99.00		  51.22		52.70	    -1.#J

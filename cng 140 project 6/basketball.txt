@@ -1,0 +1,16 @@
+Cenk Akyol:f:20:40:30:60:40:80
+Dusan Cantekin:c:10:16:14:28:0:0
+Ender Arslan:pg:23:33:27:50:25:88
+Kerem Gonlum:pf:14:26:35:66:1:3
+Kerem Tunceri:pg:46:55:53:114:51:144
+Sinan Guler:sg:17:25:45:89:42:94
+Baris Ermis:pg:58:80:80:109:21:79
+Hidayet Turkoglu:f:67:95:209:504:91:255
+Omer Asik:c:47:103:79:156:0:0
+Omer Onan:sg:30:46:48:97:27:74
+Ersan Ilyasova:ps:143:183:294:597:51:112
+Semih Erden:c:21:41:39:74:0:0
+
+
+
+
